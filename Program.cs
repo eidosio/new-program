@@ -1,7 +1,3 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        console.WriteLine("Hello, World!");
-    }
-}
+﻿string username = console.readLine("Hello, World!");
+Console.WriteLine("hello, ");
+Console.WriteLine(username);
